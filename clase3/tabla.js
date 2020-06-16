@@ -11,3 +11,5 @@ i++;
 }
 
 tablaDeMultiplicar(20)
+
+console.log(10);
